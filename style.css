@@ -88,3 +88,13 @@ font-family: monospace;
 margin-top: 460px;
 
 }
+#back{
+  position: absolute;
+  margin-top: 1400px;
+  margin-left: 1100px;
+}
+#back2{  position: absolute;
+  margin-top: 860px;
+  margin-left: 1100px;
+
+}

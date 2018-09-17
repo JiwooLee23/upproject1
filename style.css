@@ -67,3 +67,24 @@ position:absolute;
   margin-top:1570px;
   font-family: monospace;
 }
+#act{
+  position: absolute;
+  font-family: monospace;
+  margin-top: 330px;
+}
+#interview{
+  position: absolute;
+  font-family: monospace;
+  margin-top: 300px;
+}
+#list{
+  position: absolute;
+  font-family: monospace;
+  margin-top: 350px;
+}
+#act2{
+  position: absolute;
+font-family: monospace;
+margin-top: 460px;
+
+}

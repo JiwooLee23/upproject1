@@ -21,18 +21,22 @@ body {
   text-decoration: none;
   width : 80px;
   margin : auto;}
-  
+
 #firstattempt{
   position: absolute;
   margin-top:830px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 
 }
 #inthe{
   color: black;
   position: absolute;
   margin-top: 315px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 
 }
 #first{
@@ -44,12 +48,16 @@ body {
 #inthe2{
   position: absolute;
   margin-top: 920px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 }
 #secondattempt{
   position:absolute;
   margin-top:1430px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 }
 #revision{
   width: 650px;
@@ -60,33 +68,44 @@ body {
 #inthe3{
   position: absolute;
   margin-top: 1540px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 }
 #difficulty{
   position:absolute;
   margin-top:1570px;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
 }
 #act{
   position: absolute;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
   margin-top: 330px;
 }
 #interview{
   position: absolute;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
   margin-top: 300px;
 }
 #list{
   position: absolute;
-  font-family: monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
   margin-top: 350px;
 }
 #act2{
   position: absolute;
-font-family: monospace;
-margin-top: 460px;
-
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
+  margin-top: 460px;
 }
 #back{
   position: absolute;
